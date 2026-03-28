@@ -8,7 +8,7 @@ Project is a simple recipes website built using HTML.
 
 I am creating this project to practice basic web development skills.
 
-# Skills
+# Skills demonstrated
 
 -> Creating web pages
 -> Basic Git and GitHub usage
